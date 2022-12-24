@@ -3,9 +3,9 @@
 
 <table>
     <tr>
-        <td><a href="http://www.paktric.com/" target="_blank">paktric.com</a></td>
-        <td><a href="https://www.github.com/paktric/" target="_blank">github.com/paktric</a></td>
-        <td><a href="https://www.linkedin.com/in/paktric/" target="_blank">linkedin.com/in/paktric/</a></td>
+        <td><a href="https://www.paktric.com/">paktric.com</a></td>
+        <td><a href="https://www.github.com/paktric/">github.com/paktric</a></td>
+        <td><a href="https://www.linkedin.com/in/paktric/">linkedin.com/in/paktric/</a></td>
     </tr>
 </table>
 
