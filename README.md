@@ -1,5 +1,5 @@
 # *xkcd Comic Viewer App*
-### Project by **`Patrick Moran`**  <br />  Computer Science Student `&&` Software Developer
+### Project by **`Patrick Moran`**
 
 <table>
     <tr>
