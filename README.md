@@ -11,11 +11,13 @@
 
 ---
 
-<br />
+<img width="2240" alt="screenshot" src="https://user-images.githubusercontent.com/37051272/219986022-db1128fc-cb81-44c8-adde-51c956f1f623.png">   
+
+---
 
 # Project Overview
 ### Motivation
-This project was a lab that was assigned in my iOS app development class. The task was to build an app that uses an API, with the following requirments:
+This project was a lab that was assigned in my iOS app development class. The task was to build an app that uses an API, with the following requirements:
 - Pick any API that does not require authentication
 - Build an app that fetches data and display the data with a UI
 - Allow the user to send a request to fetch new data
